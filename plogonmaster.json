@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://vid.asukaris.live/release/0.0.1.zip",
-        "DownloadLinkTesting": "https://vid.asukaris.live/release/0.0.1.zip",
-        "DownloadLinkUpdate": "https://vid.asukaris.live/update/0.0.1.zip"
+        "DownloadLinkInstall": "https://sphene.asukaris.live/release/0.0.1.zip",
+    "DownloadLinkTesting": "https://sphene.asukaris.live/release/0.0.1.zip",
+    "DownloadLinkUpdate": "https://sphene.asukaris.live/update/0.0.1.zip"
       }
 ]
